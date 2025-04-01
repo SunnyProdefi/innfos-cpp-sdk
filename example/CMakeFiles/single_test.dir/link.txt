@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/single_test.dir/src/mytest/single_test.cpp.o -o bin/single_test   -L/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64  -Wl,-rpath,/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64 -lActuatorController -lpthread

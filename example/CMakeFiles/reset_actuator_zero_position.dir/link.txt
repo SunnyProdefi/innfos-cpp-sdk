@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/reset_actuator_zero_position.dir/src/mytest/reset_actuator_zero_position.cpp.o -o bin/reset_actuator_zero_position   -L/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64  -Wl,-rpath,/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64 -lActuatorController -lpthread

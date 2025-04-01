@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/run90.dir/src/mytest/run90.cpp.o -o bin/run90   -L/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64  -Wl,-rpath,/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64 -lActuatorController -lpthread

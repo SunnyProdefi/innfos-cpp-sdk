@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/reset_end_zero.dir/src/mytest/reset_end_zero.cpp.o -o bin/reset_end_zero   -L/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64  -Wl,-rpath,/home/prodefi/innfos-cpp-sdk/example/../sdk/lib/linux_x86_64 -lActuatorController -lpthread

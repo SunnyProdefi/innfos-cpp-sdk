@@ -43,3 +43,8 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+
+example/bin
+example/CMakeFiles
+example/CMakeCache.txt
+example/cmake_install.cmake

@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
         for (auto actuator : uIDArray)
         {
             cout << "Actuator found with ID: " << (int)actuator.actuatorID << " and IP address: " << actuator.ipAddress << endl;
-            if (actuator.actuatorID != 27)
+            if (actuator.actuatorID != 11)
             {
                 continue;
             }

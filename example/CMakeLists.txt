@@ -24,6 +24,7 @@ SET(EXAMPLE_SOURCES
   ${CMAKE_CURRENT_SOURCE_DIR}/src/mytest/run90.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/src/mytest/reset_end_zero.cpp
   ${CMAKE_CURRENT_SOURCE_DIR}/src/mytest/test13.cpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/src/mytest/get_actuator_pos.cpp
 )
 
 SET(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
